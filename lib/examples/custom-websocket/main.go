@@ -7,9 +7,9 @@ import (
 	"log"
 	"net"
 
-	"github.com/go-rod/rod"
-	"github.com/go-rod/rod/lib/cdp"
-	"github.com/go-rod/rod/lib/launcher"
+	"github.com/assetnote/rod"
+	"github.com/assetnote/rod/lib/cdp"
+	"github.com/assetnote/rod/lib/launcher"
 	"github.com/gobwas/ws"
 	"github.com/gobwas/ws/wsutil"
 )

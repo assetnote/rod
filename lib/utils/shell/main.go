@@ -6,7 +6,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/go-rod/rod/lib/utils"
+	"github.com/assetnote/rod/lib/utils"
 )
 
 func main() {

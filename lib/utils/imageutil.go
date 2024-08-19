@@ -8,7 +8,7 @@ import (
 	"image/png"
 	"io"
 
-	"github.com/go-rod/rod/lib/proto"
+	"github.com/assetnote/rod/lib/proto"
 )
 
 // ImgWithBox is a image with a box, if the box is nil, it means the whole image.

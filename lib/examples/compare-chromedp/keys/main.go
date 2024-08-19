@@ -7,8 +7,8 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/go-rod/rod"
-	"github.com/go-rod/rod/lib/input"
+	"github.com/assetnote/rod"
+	"github.com/assetnote/rod/lib/input"
 )
 
 // This example demonstrates how to send key events to an element.

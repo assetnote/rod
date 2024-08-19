@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-rod/rod"
-	"github.com/go-rod/rod/lib/proto"
-	"github.com/go-rod/rod/lib/utils"
+	"github.com/assetnote/rod"
+	"github.com/assetnote/rod/lib/proto"
+	"github.com/assetnote/rod/lib/utils"
 	"github.com/ysmood/gson"
 )
 

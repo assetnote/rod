@@ -13,8 +13,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/go-rod/rod/lib/defaults"
-	"github.com/go-rod/rod/lib/utils"
+	"github.com/assetnote/rod/lib/defaults"
+	"github.com/assetnote/rod/lib/utils"
 	"github.com/ysmood/fetchup"
 	"github.com/ysmood/leakless"
 )

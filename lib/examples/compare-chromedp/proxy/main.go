@@ -8,8 +8,8 @@ import (
 	"net/http/httptest"
 	"net/http/httputil"
 
-	"github.com/go-rod/rod"
-	"github.com/go-rod/rod/lib/launcher"
+	"github.com/assetnote/rod"
+	"github.com/assetnote/rod/lib/launcher"
 )
 
 func main() {
